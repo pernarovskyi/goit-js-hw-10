@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://pernarovskyi.github.io/goit-js-hw-10",
   "scripts": {
-    "dev": "parcel src/*.html",
+    "dev": "parcel src/index.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
   },
   "repository": {
